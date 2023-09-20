@@ -4,7 +4,7 @@ A comprehensive exploration into foundational machine learning algorithms, demon
 # ML Basics: Algorithm Introduction
 
 ## Description
-A foundational project to introduce various machine learning algorithms using classic datasets like Iris and Titanic.
+A foundational project to introduce various machine learning algorithms using classic datasets like Iris and/or Titanic.
 
 ## Purpose/Goal
 To provide a hands-on introduction to fundamental machine learning algorithms and establish foundational knowledge.
